@@ -1,1 +1,1 @@
-*** Web Url: https://iicebtt.github.io/
+Web Url: https://iicebtt.github.io/
